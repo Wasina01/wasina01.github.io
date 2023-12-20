@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +49,7 @@
 
     <header>
         <h1>Cybersecurity Portfolio</h1>
-        <p>Your Name - Cybersecurity Professional</p>
+        <p>Wadawasina Isaac Clement - Cybersecurity Professional</p>
     </header>
 
     <section>
@@ -76,12 +76,12 @@
             <p><a href="#">Link to the project</a></p>
         </div>
 
-        <!-- Add more projects as needed -->
+        <!--(https://www.mapleleafventures.store/) -->
 
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Name. All Rights Reserved.</p>
+        <p>&copy; 2023 Wadawasina Isaac Clement. All Rights Reserved.</p>
     </footer>
 
 </body>
