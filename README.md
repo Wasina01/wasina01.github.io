@@ -3,86 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cybersecurity Portfolio</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-
-        header {
-            background-color: #007bff;
-            color: #fff;
-            padding: 1rem;
-            text-align: center;
-        }
-
-        section {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-        }
-
-        h1, h2 {
-            color: #007bff;
-        }
-
-        .project {
-            margin-bottom: 1.5rem;
-        }
-
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background-color: #007bff;
-            color: #fff;
-        }
-    </style>
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Cybersecurity Portfolio</title>
 </head>
 <body>
-
     <header>
-        <h1>Cybersecurity Portfolio</h1>
-        <p>Wadawasina Isaac Clement - Cybersecurity Professional</p>
+        <h1>Your Name - Cybersecurity Portfolio</h1>
     </header>
-
-    <section>
+    
+    <section id="about">
         <h2>About Me</h2>
-        <p>
-            Welcome to my cybersecurity portfolio! I am passionate about securing digital systems and
-            ensuring the confidentiality, integrity, and availability of information.
-            Here, you'll find information about my skills, projects, and experience in the field of cybersecurity.
-        </p>
+        <p>Introduce yourself and highlight your key skills and experiences.</p>
     </section>
-
-    <section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Cybersecurity Analysis</li>
+            <li>Penetration Testing</li>
+            <li>Incident Response</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+    
+    <section id="projects">
         <h2>Projects</h2>
-
         <div class="project">
             <h3>Project 1: Title</h3>
-            <p>Description of the project goes here.</p>
-            <p><a href="#">Link to the project</a></p>
+            <p>Description of the project, your role, and the technologies used.</p>
         </div>
-
         <div class="project">
             <h3>Project 2: Title</h3>
-            <p>Description of the project goes here.</p>
-            <p><a href="#">Link to the project</a></p>
+            <p>Description of the project, your role, and the technologies used.</p>
         </div>
-
-        <!--(https://www.mapleleafventures.store/) -->
-
+        <!-- Add more projects as needed -->
     </section>
-
-    <footer>
-        <p>&copy; 2023 Wadawasina Isaac Clement. All Rights Reserved.</p>
-    </footer>
-
+    
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: your.email@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+        <!-- Add more contact information as needed -->
+    </section>
 </body>
 </html>
